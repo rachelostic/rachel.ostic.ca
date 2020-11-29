@@ -17,7 +17,7 @@ organizations:
     url: https://menard.physics.uottawa.ca/
 education:
   courses: []
-email: ""
+email: rachel@ostic.ca
 superuser: true
 user_groups:
   - Researchers
