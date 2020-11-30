@@ -1,6 +1,7 @@
 ---
 title: Rachel Ostic
 role: Master's student in physics
+avatar_filename: avatar.png
 bio: ""
 interests: []
 social:
