@@ -16,7 +16,12 @@ organizations:
   - name: Ultrafast THz Spectroscopy Group
     url: https://menard.physics.uottawa.ca/
 education:
-  courses: []
+  courses:
+    - course: "Honours BSc in Physics-Mathematics "
+      institution: University of Ottawa
+      year: ""
+    - course: MSc Physics
+      institution: University of Ottawa
 email: rachel@ostic.ca
 superuser: true
 user_groups:
