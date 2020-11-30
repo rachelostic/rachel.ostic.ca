@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ottawa"
   date_start = "2018-09-01"
-  date_end = "2019-04-31"
+  date_end = "2019-04-15"
   description = """Build a time-stretch dispersive Fourier transform spectrometer."""
 
 [[experience]]
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Varennes"
   date_start = "2018-05-01"
-  date_end = "2018-08-31"
+  date_end = "2018-08-15"
   description = """Program software to facilitate measurements and data processing in spectral and coherence characterization of nanolasers."""
 
 [[experience]]
@@ -56,8 +56,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Ottawa"
   date_start = "2017-05-01"
-  date_end = "2018-04-31"
-  description = """Set up, calibrate, and write a program to control different devices to form a spectroscopy system.
-  Use this system to study photoluminescence in 2-D and 3-D GaAs samples."""
+  date_end = "2018-04-15"
+  description = """
+  * Set up, calibrate, and write a program to control different devices to form a spectroscopy system.
+  * Use this system to study photoluminescence in 2-D and 3-D GaAs samples."""
 
 +++
