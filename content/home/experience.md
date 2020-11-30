@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate research"
+  company = "University of Ottawa"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Ottawa"
+  date_start = "2019-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Projects include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Development of a single-pulse terahertz detection technique using the dispersive Fourier transform.
+  * Supercontinuum generation and polarization effects in germania doped fiber and associated simulations.
+  * Using reinforcement learning to solve a single player game.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Honours project"
+  company = "University of Ottawa"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ottawa"
+  date_start = "2018-09-01"
+  date_end = "2019-04-31"
+  description = """Build a time-stretch dispersive Fourier transform spectrometer."""
+
+[[experience]]
+  title = "Undergraduate research"
+  company = "Institut national de la recherche scientifique"
+  company_url = ""
+  location = "Varennes"
+  date_start = "2018-05-01"
+  date_end = "2018-08-31"
+  description = """Program software to facilitate measurements and data processing in spectral and coherence characterization of nanolasers."""
+
+[[experience]]
+  title = "Undergraduate research"
+  company = "University of Ottawa"
+  company_url = ""
+  location = "Ottawa"
+  date_start = "2017-05-01"
+  date_end = "2018-04-31"
+  description = """Set up, calibrate, and write a program to control different devices to form a spectroscopy system.
+  Use this system to study photoluminescence in 2-D and 3-D GaAs samples."""
 
 +++
