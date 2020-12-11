@@ -109,6 +109,58 @@ date_format = "Jan 2006"
   date_end = "2018-08-30"
   description = ""
 
+[[item]]
+  organization = "University of Ottawa"
+  organization_url = "https://uottawa.ca"
+  title = "André E. Lalonde in Memoriam Scholarship"
+  url = "https://scholarships.uottawa.ca/p/a/17931/"
+  certificate_url = ""
+  date_start = "2018-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "University of Ottawa"
+  organization_url = "https://uottawa.ca"
+  title = "Scotiabank Global Transaction Banking Scholarship"
+  url = "https://scholarships.uottawa.ca/p/a/18163/"
+  certificate_url = ""
+  date_start = "2018-11-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "University of Ottawa"
+  organization_url = "https://uottawa.ca"
+  title = "Undergraduate Research Opportunity Program"
+  url = "https://scholarships.uottawa.ca/p/a/18948/"
+  certificate_url = ""
+  date_start = "2017-11-01"
+  date_end = "2018-03-30"
+  description = ""
+
+[[item]]
+  organization = "University of Ottawa"
+  organization_url = "https://uottawa.ca"
+  title = "French Studies Bursary"
+  url = "https://scholarships.uottawa.ca/p/a/17317/"
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2018-05-30"
+  description = ""
+
+[[item]]
+  organization = "NSERC"
+  organization_url = "https://uottawa.ca"
+  title = "Undergraduate Student Research Award "
+  url = "https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp"
+  certificate_url = ""
+  date_start = "2017-05-01"
+  date_end = "2017-08-30"
+  description = ""
+
+
+
 
 
 
