@@ -32,13 +32,13 @@ organizations:
 
 education:
   courses:
-    - course: "Honours BSc in Physics-Mathematics"
-      institution: University of Ottawa
-      year: "2016 – 2019"
-    - course: "MSc Physics"
+  - course: "MSc Physics"
       institution: University of Ottawa
       year: "2019 – Present"
-
+ - course: "Honours BSc in Physics-Mathematics"
+      institution: University of Ottawa
+      year: "2016 – 2019"
+   
 email: rachel@ostic.ca
 
 superuser: true
@@ -51,4 +51,4 @@ highlight_name: false
 ---
 Rachel Ostic is a master's student in the Ultrafast THz Spectroscopy lab at the University of Ottawa. She works on supercontinuum generation, including simulations and experimental measurements of spectral and polarization properties, and is involved in developing a single-pulse terahertz detection technique. Her other interests include programming and machine learning, which led her to contribute to a reinforcement learning project to solve a single-player game. 
 
-Rachel is passionate about sharing her knowledge and love of physics as a tutor, teaching assistant and through science outreach events. She is also principal viola and volunteers as Grant Proposal Manager for the Ottawa Pops Orchestra. In her spare time, she reads and stays active by jogging, hiking and cycling in Gatineau Park.
+Rachel is passionate about sharing her knowledge and love of physics as a tutor, teaching assistant, and through science outreach events. She is also principal viola and volunteers as Grant Proposal Manager for the Ottawa Pops Orchestra. In her spare time, she reads and tries to stay active by jogging, hiking and cycling in Gatineau Park.
