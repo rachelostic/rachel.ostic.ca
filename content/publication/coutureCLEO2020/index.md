@@ -43,7 +43,7 @@ featured: true
 links:
 - name: Link
   url: https://www.osapublishing.org/abstract.cfm?uri=cleo_si-2020-JW2E.12
-url_pdf: '' 
+url_pdf: media/Couture_CLEO_2020.pdf 
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -71,13 +71,6 @@ projects: []
 slides: []
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
