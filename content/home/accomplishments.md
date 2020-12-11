@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   url = "https://www.uottawa.ca/graduate-studies/students/awards/ontario"
   certificate_url = ""
   date_start = "2020-05-01"
-  date_end = "2020-04-30"
+  date_end = "2021-04-30"
   description = ""
   
 [[item]]
