@@ -37,7 +37,7 @@ education:
       year: "2016 – 2019"
     - course: MSc Physics
       institution: University of Ottawa
-      year: "2019 - Present"
+      year: "2019 – Present"
 
 email: rachel@ostic.ca
 
