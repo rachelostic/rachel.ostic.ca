@@ -46,7 +46,7 @@ links:
 url_pdf: media/Couture_CLEO_2020.pdf 
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: media/Couture_CLEO_2020_poster.pdf
 url_project: ''
 url_slides: ''
 url_source: ''
