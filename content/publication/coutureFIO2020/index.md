@@ -1,5 +1,5 @@
 ---
-title: "Polarization analysis of a supercontinuum generated in a germania-doped photonic crystal fiber"
+title: "Polarization resolution of a fiber-based supercontinuum spanning more than 2 octaves"
 authors:
 - Nicolas Couture
 - admin
