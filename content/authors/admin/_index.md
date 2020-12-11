@@ -13,7 +13,7 @@ social:
     link: https://github.com/rachelostic
 organizations:
   - name: University of Ottawa
-    url: uottawa.ca
+    url: https://uottawa.ca
   - name: Ultrafast THz Spectroscopy Group
     url: https://menard.physics.uottawa.ca/
 education:
