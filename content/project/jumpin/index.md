@@ -28,4 +28,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: "" 
 ---
-Project to learn more about Python and reinforcement learning applied to the single-player game "<a href='https://www.smartgames.eu/uk/one-player-games/jumpin'>JumpIN'</a>". The solver trains on puzzles and, through Q-learning feedback, more efficient solutions are reinforced.
+Project to learn more about Python and reinforcement learning applied to the single-player game <a href='https://www.smartgames.eu/uk/one-player-games/jumpin'>JumpIN'</a>. The solver trains on puzzles and, through Q-learning feedback, more efficient solutions are reinforced.
