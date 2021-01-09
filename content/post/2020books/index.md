@@ -584,7 +584,6 @@ labels
 ```
 
     19 categories as follow:
-
     ['biography',
      'children’s',
      'classics',
@@ -948,7 +947,7 @@ This part lets me use linear regression on $X=(x_1,...,x_n)$ of the form
 \begin{equation*}
 y = \sum_{i=1}^n a_i x_i + a_0 
 \end{equation*}
-to try to find possible correlations by fitting the $a_i$. In this case, the indices 1 through $n$ refer to the different column entries for each book. I'm using a model from **sklearn**.
+to try to find possible correlations by fitting the $a_i$. In this case, the indices 1 through $n$ refer to the different column entries for each book. I'm using a model from \textbf{sklearn}.
 
 
 ```
