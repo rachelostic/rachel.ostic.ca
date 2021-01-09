@@ -1,0 +1,71 @@
+Count,Title,Author,Year,Note,Number of pages,Reading time (if known),Reread?
+1,Words and Rules,Steven Pinker,1999,nonfiction,348,,0
+2,The Wonderful Wizard of Oz,L. Frank Baum,1900,fiction; children’s; classics,224,,0
+3,Little Women,Louisa May Alcott,1868,fiction; classics,504,,1
+4,Unnatural Death,Dorothy L. Sayers,1927,fiction; mystery,240,,0
+5,Seeing Voices,Oliver Sacks,1989,nonfiction,186,,0
+6,The Paper Garden,Molly Peacock,2010,nonfiction; biography,416,,0
+7,Bad Heir Day,Wendy Holden,2008,fiction,339,,1
+8,Frankenstein,Mary Shelley,1818,fiction; classics; horror,177,,0
+9,The Franchise Affair,Josephine Tey,1948,fiction; mystery,272,,1
+10,A Room with a View,E. M. Forster,1908,fiction,172,,0
+11,Cheerful Money,Tad Friend,2009,nonfiction; biography,386,,0
+12,Cat’s Eye,Margaret Atwood,1988,fiction,445,,0
+13,Open House,Elizabeth Berg,2000,fiction,241,,0
+14,A Stairway to Paradise,Madeleine St John,1999,fiction,185,,0
+15,A Spot of Bother,Mark Haddon,2006,fiction,354,,0
+16,Ladies in Waiting,Laura L. Sullivan,2012,fiction; historical fiction; young adult,336,,1
+17,For the Love of Physics,Walter Lewin,2011,nonfiction; biography,320,,0
+18,Love Her or Lose Her,Tessa Bailey,2020,fiction; romance,352,,0
+19,The Gifts of the Child Christ I,George Macdonald,1973,fiction; fairy tales; short story,334,,0
+20,The Only Child,Mi-ae Seo,2020,fiction; thriller,304,,0
+21,The Three-Body Problem,Cixin Liu,2014,fiction; science fiction; historical fiction,400,,0
+22,An Instance of the Fingerpost,Iain Pears,1997,fiction; mystery; historical fiction,692,,0
+23,The Gifts of the Child Christ II,George Macdonald,1973,fiction; fairy tales; short story,262,,0
+24,Extraordinary means,Robyn Schneider,2015,fiction; young adult,324,,0
+25,The Sandman: Overture,Neil Gaiman,2015,fiction; graphic novel,224,,0
+26,The Girl on the Train,Paula Hawkins,2015,fiction; thriller,497,,0
+27,Howl’s Moving Castle,Diana Wynne Jones,1986,fiction; young adult,212,,1
+28,House of Many Ways,Diana Wynne Jones,2008,fiction; young adult,432,,1
+29,The Pinhoe Egg,Diana Wynne Jones,2006,fiction; young adult,458,,1
+30,Charmed Life,Diana Wynne Jones,1977,fiction; young adult,208,,1
+31,Conrad’s Fate,Diana Wynne Jones,2005,fiction; young adult,393,,1
+32,The Islands of Chaldea,Diana Wynne Jones; Ursula Jones,2014,fiction; young adult,368,,0
+33,The Lives of Christopher Chant,Diana Wynne Jones,1988,fiction; young adult,240,,1
+34,Enchanted Glass,Diana Wynne Jones,2010,fiction; young adult,292,,0
+35,The Game,Diana Wynne Jones,2007,fiction; young adult,192,,0
+36,Witch Week,Diana Wynne Jones,1982,fiction; young adult,210,,1
+37,Mixed Magics,Diana Wynne Jones,2000,fiction; young adult; short story,171,,1
+38,I Owe You One,Sophie Kinsella,2019,fiction,448,,0
+39,How Starbucks Saved My Life,Michael Gates Gill,2007,nonfiction; biography,267,,0
+40,Leaving the Witness,Amber Scorah,2019,nonfiction; biography,288,,0
+41,Nikolski,Nicolas Dickner,2007,fiction; french,309,,1
+42,Castle in the Air,Diana Wynne Jones,1990,fiction; young adult,304,3:18,1
+43,Fire and Hemlock,Diana Wynne Jones,1984,fiction; young adult,496,5:43,0
+44,Cart and Cwidder,Diana Wynne Jones,1975,fiction; young adult,193,3:41,0
+45,A Tale of Time City,Diana Wynne Jones,1987,fiction; young adult,285,5:05,0
+46,Hexwood,Diana Wynne Jones,1993,fiction; young adult; science fiction,288,6:17,0
+47,The Time of the Ghost,Diana Wynne Jones,1981,fiction; young adult; mystery,304,3:32,0
+48,Big Money,P. G. Wodehouse,1931,fiction,240,4:18,0
+49,Who We Could Be,Chelsea M. Cameron,2020,fiction; romance,195,2:32,0
+50,The Duchess War,Courtney Milan,2012,fiction; historical fiction; romance,256,4:23,0
+51,Once Upon a Marquess,Courtney Milan,2015,fiction; historical fiction; romance,290,4:07,0
+52,Her Every Wish,Courtney Milan,2016,fiction; historical fiction; romance,150,1:55,0
+53,Hold Me,Courtney Milan,2016,fiction; romance,306,4:34,0
+54,Very Far Away from Anywhere Else,Ursula K. Le Guin,1976,fiction; novella; young adult,87,0:53,0
+55,Tell Me Three Things,Julie Buxbaum,2016,fiction; young adult,352,4:05,0
+56,The Wedding Party,Jasmine Guillory,2019,fiction; romance,352,4:40,0
+57,The Turn of the Screw,Henry James,1898,fiction; horror; novella; classics,125,4:32,0
+58,Spoiled,Heather Cocks; Jessica Morgan,2012,fiction; young adult,384,1:36,0
+59,A Wizard of Earthsea,Ursula K. Le Guin,1968,fiction; young adult; fantasy,205,3:51,0
+60,The Kiss Quotient,Helen Hoang,2018,fiction; romance,336,3:13,0
+61,"Much Obliged, Jeeves",P. G. Wodehouse,1971,fiction,192,2:44,0
+62,The Year of Less,Cait Flanders,2018,nonfiction; biography,216,1:59,0
+63,"Funny, You Don't Look Autistic",Michael McCreary,2019,nonfiction; biography,176,1:32,0
+64,Fangs,Sarah Andersen,2020,fiction; graphic novel; german,105,1:11,0
+65,To All the Boys I've Loved Before,Jenny Han,2014,fiction; young adult; romance,384,3:36,0
+66,The Book Thief,Markus Zusak,2005,fiction; historical fiction; young adult,584,6:30,0
+67,The Bookish Life of Nina Hill,Abbi Waxman,2019,fiction,352,4:27,0
+68,P.S. I Still Love You,Jenny Han,2015,fiction; young adult; romance,337,3:46,0
+69,A Brief History of Time,Stephen W. Hawking,1988,nonfiction,198,,0
+70,Breakfast at Tiffany's,Truman Capote,1958,fiction; novella; short story,179,2:57,0
