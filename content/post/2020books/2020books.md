@@ -10,7 +10,7 @@ tags:
 categories: []
 date: "2020-01-09T00:00:00Z"
 featured: false
-draft: false
+draft: true
 math: true
 
 links:
