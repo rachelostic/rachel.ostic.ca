@@ -40,7 +40,7 @@ projects: []
 
 I read some 70 books in 2020. That got me thinking, maybe I could turn that list of books into a simple data set and explore some **Python** packages to analyze and learn more about my reading habits. 
 
-I turn to books for a few different reasons: for comfort, emotional catharsis, and to learn new things. Over the course of 2020, reading books was a reliable way to distract myself while expanding my horizons.
+I turn to books for a few different reasons: for fun, for comfort, and to learn new things. Over the course of 2020, reading books was a reliable way to distract myself while expanding my horizons.
 
 # Load data
 
@@ -584,10 +584,6 @@ labels
 ```
 
     19 categories as follow:
-
-
-
-
 
     ['biography',
      'children’s',
