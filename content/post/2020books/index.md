@@ -367,8 +367,8 @@ I want to know how closely correlated this is with page count. First, I need to 
 
 ```
 def timetominutes(t):
-  h, m = t.split(':')
-  return int(h) * 60 + int(m) 
+    h, m = t.split(':')
+    return int(h) * 60 + int(m) 
 books['Reading time (if known)'] = books[books['Reading time (if known)'].notna()]['Reading time (if known)'].apply(timetominutes)
 books.tail(5)
 ```
@@ -948,7 +948,7 @@ This part lets me use linear regression on $X=(x_1,...,x_n)$ of the form
 \begin{equation*}
 y = \sum_{i=1}^n a_i x_i + a_0 
 \end{equation*}
-to try to find possible correlations by fitting the $a_i$. In this case, the indices 1 through *n* refer to the different column entries for each book. I'm using a model from **sklearn**.
+to try to find possible correlations by fitting the $a_i$. In this case, the indices 1 through $n$ refer to the different column entries for each book. I'm using a model from **sklearn**.
 
 
 ```
