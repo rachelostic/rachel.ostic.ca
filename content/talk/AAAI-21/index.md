@@ -18,7 +18,7 @@ abstract: "Reinforcement learning seeks to teach agents to solve problems using 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-02-06T00:45:00Z"
-date_end: "2021-02-06T19:00:00Z"
+# date_end: "2021-02-06T19:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -42,8 +42,6 @@ image:
   focal_point: Right
 
 links:
-- name: Link
-  url: 
 url_code: ""
 url_pdf: 
 url_slides: ""
