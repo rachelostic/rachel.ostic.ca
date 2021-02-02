@@ -11,7 +11,7 @@ address:
   postcode: 
   country: Canada
 
-summary: A poster presentation on the topic of photoluminescence spectroscopy given during the 2018 Syposium for the Undergraduate Research Opportunity Program.
+summary: Poster presentation on the topic of photoluminescence spectroscopy given during the 2018 Syposium for the Undergraduate Research Opportunity Program.
 abstract: "We compare a bulk gallium arsenide sample with a sample formed of stacked quantum wells to observe the bandgap shift owing to quantum confinement. The observations agree well with the infinite potential well model."
 
 # Talk start and end times.
