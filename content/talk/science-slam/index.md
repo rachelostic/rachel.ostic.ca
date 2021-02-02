@@ -12,7 +12,7 @@ address:
   country: Canada
 
 summary: Science Slam organized by the University of Ottawa Library on behalf of Science Literacy Week.
-abstract: "An overview of supercontinuum generation for a general audience including a variety of semi-accurate analogies the physics approximation that almost everything is a spring."
+abstract: "An overview of supercontinuum generation for a general audience including a variety of semi-accurate analogies and the physics approximation that almost everything is a spring."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
