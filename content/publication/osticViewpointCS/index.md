@@ -4,7 +4,7 @@ authors:
 - admin
 - Jean-Michel Menard
 date: "2021-02-15T00:00:00Z"
-doi: "10.1103/Physics.14.23"
+# doi: "10.1103/Physics.14.23"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-15T00:00:00Z"
@@ -34,7 +34,7 @@ links:
 url_pdf: '' 
 url_code: ''
 url_dataset: ''
-url_poster:'' 
+url_poster: '' 
 url_project: ''
 url_slides: ''
 url_source: ''
