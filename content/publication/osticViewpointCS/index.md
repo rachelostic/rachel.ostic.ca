@@ -43,6 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
+  caption: 'Image credit: J.-M. Ménard/University of Ottawa; adapted by APS/[Alan Stonebraker](https://alanstonebraker.com/)'
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
