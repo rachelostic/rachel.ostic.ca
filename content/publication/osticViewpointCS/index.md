@@ -31,7 +31,7 @@ featured: true
 links:
 - name: Link
   url: https://physics.aps.org/articles/v14/23
-url_pdf: '' 
+url_pdf: media/Ostic_Physics.14.23.pdf
 url_code: ''
 url_dataset: ''
 url_poster: '' 
