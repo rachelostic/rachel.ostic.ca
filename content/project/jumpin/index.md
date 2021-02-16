@@ -13,7 +13,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image: 
-  caption: Schematic by Rachel Ostic 
+  caption: Schematic by Rachel Ostic based on SmartGames board design
   focal_point: Smart
 
 links: ""
