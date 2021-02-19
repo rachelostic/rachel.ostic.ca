@@ -20,7 +20,7 @@ publishDate: "2021-02-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Physics\: Photonics*
+publication: "In *Journal of Physics: Photonics*"
 publication_short: In *JPhys Photonics*
 
 abstract: We characterize the polarization properties of a supercontinuum (SC) generated in a GeO2-doped photonic crystal fiber (PCF) to reveal the interplay between nonlinear broadening mechanisms of a pulse propagating in two independent fundamental modes associated to the principal axes of the fiber. Notably, we resolve self-phase modulation, self-shifted Raman solitons and dispersive waves within a set of orthogonal polarization states as they contribute to generate a broad spectrum spanning from 450 to 2150 nm. Interestingly, our experimental results feature a high degree of polarization at the edges of the spectrum in comparison to the region near the pump wavelength. We show that this modulation is caused by nonlinear spectral broadening. We also identify an additional depolarization mechanism preferentially acting on shorter wavelengths, indicative of a Rayleigh-like scattering effect due to the presence of intrinsic sub-wavelength defects in the fiber. Experiments rely on a free-space grating-based monochromator and a broadband polarizer to monitor the output SC and its linear polarization components along the principal axes of the PCF. Our results and experimental technique pave the way toward an improved standard for the characterization of broadband optical spectra and more efficient implementation of highly nonlinear fibers in a large range of polarization-sensitive applications.
