@@ -1,5 +1,5 @@
 ---
-title: Solving JumpIN’ Using Zero-Dependency Reinforcement Learning (Student Abstract) 
+title: Solving JumpIN’ Using Zero-Dependency Reinforcement Learning 
 event: AAAI-21
 event_url: https://aaai.org/Conferences/AAAI-21/
 
