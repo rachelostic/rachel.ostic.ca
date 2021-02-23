@@ -65,4 +65,4 @@ projects: ["jumpin"]
 math: true
 ---
 
-Selected as finalist in Student Abstract category. Based on project completed during summer 2020 supervised by Patrick Boily.
+Selected as finalist in Student Abstract category for a three-minute oral presentation in addition to the poster presentation. Based on project completed during summer 2020 supervised by Patrick Boily.
