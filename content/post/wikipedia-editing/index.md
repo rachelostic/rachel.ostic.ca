@@ -10,7 +10,7 @@ tags:
 categories: []
 date: "2021-04-09T00:00:00Z"
 featured: false
-draft: true 
+draft: false
 math: false
 
 links:
