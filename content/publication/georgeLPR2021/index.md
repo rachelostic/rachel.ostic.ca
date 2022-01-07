@@ -13,7 +13,7 @@ authors:
 - Mercedeh Khajavikhan
 - Roberto Morandotti
 date: "2021-10-10T00:00:00Z"
-doi: "10.1002/lpor.202000593"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-18T00:00:00Z"
