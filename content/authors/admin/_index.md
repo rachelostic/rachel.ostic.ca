@@ -1,7 +1,7 @@
 ---
 title: Rachel Ostic
 
-role: Master's student in physics
+role: Data scientist
 
 avatar_filename: avatar.png
 
@@ -11,6 +11,7 @@ interests:
   - Terahertz spectroscopy
   - Fiber optics
   - Simulation
+  - Data science
 
 social:
   - icon: envelope
@@ -22,11 +23,13 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rachel-ostic/
+  - icon: graduation-cap  # OR `google-scholar`
+    icon_pack: fas  # OR `ai`
+    link: https://scholar.google.co.uk/citations?user=nvGhEW4AAAAJ
 
 
 organizations:
-  - name: University of Ottawa
-    url: https://uottawa.ca
+  - name: Canada Revenue Agency
   - name: Ultrafast THz Spectroscopy Group
     url: https://menard.physics.uottawa.ca/
 
