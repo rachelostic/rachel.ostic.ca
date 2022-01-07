@@ -34,7 +34,7 @@ education:
   courses:
     - course: "MSc Physics"
       institution: University of Ottawa
-      year: "2019 – Present"
+      year: "2019 – 2021"
     - course: "Honours BSc in Physics-Mathematics"
       institution: University of Ottawa
       year: "2016 – 2019"
