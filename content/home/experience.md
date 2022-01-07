@@ -17,13 +17,24 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Data scientist"
+  company = "Canada Revenue Agency"
+  company_url = ""
+  location = "Ottawa"
+  date_start = "2021-06-28"
+  date_end = ""
+  description = """
+  """
+
 [[experience]]
   title = "Graduate research"
   company = "University of Ottawa"
   company_url = "https://menard.physics.uottawa.ca/"
   location = "Ottawa"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2021-12-30"
   description = """
   Projects include:
   
@@ -31,6 +42,15 @@ date_format = "Jan 2006"
   * Supercontinuum generation and polarization effects in germania doped fiber and associated simulations.
   * Using reinforcement learning to solve a single player game.
   """
+
+[[experience]]
+  title = "Grant proposal manager"
+  company = "Ottawa Pops Orchestra"
+  company_url = "https://ottawapopsorchestra.ca/"
+  location = "Ottawa"
+  date_start = "2020-01-15"
+  date_end = ""
+  description = """Volunteer position assisting administrative team with funding proposals and applications."""
 
 [[experience]]
   title = "Honours project"
