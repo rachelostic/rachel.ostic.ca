@@ -239,7 +239,6 @@ books[(books["Read in"]==2021) & (books["Reread?"]=="Yes")][["Title", "Favourite
       fill: #FFFFFF;
     }
   </style>
-    </div>
   </div>
   
 
@@ -518,7 +517,7 @@ genre_distr.head(3)
       fill: #FFFFFF;
     }
   </style>
-    </div>
+    
   </div>
   
 
