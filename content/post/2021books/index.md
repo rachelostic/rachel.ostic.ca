@@ -8,7 +8,7 @@ tags:
 - Books
 - Python
 categories: []
-date: "2020-01-09T00:00:00Z"
+date: "2022-02-09T00:00:00Z"
 featured: false
 draft: false 
 math: true
@@ -239,31 +239,6 @@ books[(books["Read in"]==2021) & (books["Reread?"]=="Yes")][["Title", "Favourite
       fill: #FFFFFF;
     }
   </style>
-
-      <script>
-        const buttonEl =
-          document.querySelector('#df-98c5c1b0-1d45-42d2-86d2-8e7c4947029f button.colab-df-convert');
-        buttonEl.style.display =
-          google.colab.kernel.accessAllowed ? 'block' : 'none';
-
-        async function convertToInteractive(key) {
-          const element = document.querySelector('#df-98c5c1b0-1d45-42d2-86d2-8e7c4947029f');
-          const dataTable =
-            await google.colab.kernel.invokeFunction('convertToInteractive',
-                                                     [key], {});
-          if (!dataTable) return;
-
-          const docLinkHtml = 'Like what you see? Visit the ' +
-            '<a target="_blank" href=https://colab.research.google.com/notebooks/data_table.ipynb>data table notebook</a>'
-            + ' to learn more about interactive tables.';
-          element.innerHTML = '';
-          dataTable['output_type'] = 'display_data';
-          await google.colab.output.renderOutput(dataTable, element);
-          const docLink = document.createElement('div');
-          docLink.innerHTML = docLinkHtml;
-          element.appendChild(docLink);
-        }
-      </script>
     </div>
   </div>
   
@@ -543,31 +518,6 @@ genre_distr.head(3)
       fill: #FFFFFF;
     }
   </style>
-
-      <script>
-        const buttonEl =
-          document.querySelector('#df-9503c624-9c22-4e31-b11d-da1f7e5640aa button.colab-df-convert');
-        buttonEl.style.display =
-          google.colab.kernel.accessAllowed ? 'block' : 'none';
-
-        async function convertToInteractive(key) {
-          const element = document.querySelector('#df-9503c624-9c22-4e31-b11d-da1f7e5640aa');
-          const dataTable =
-            await google.colab.kernel.invokeFunction('convertToInteractive',
-                                                     [key], {});
-          if (!dataTable) return;
-
-          const docLinkHtml = 'Like what you see? Visit the ' +
-            '<a target="_blank" href=https://colab.research.google.com/notebooks/data_table.ipynb>data table notebook</a>'
-            + ' to learn more about interactive tables.';
-          element.innerHTML = '';
-          dataTable['output_type'] = 'display_data';
-          await google.colab.output.renderOutput(dataTable, element);
-          const docLink = document.createElement('div');
-          docLink.innerHTML = docLinkHtml;
-          element.appendChild(docLink);
-        }
-      </script>
     </div>
   </div>
   
