@@ -283,10 +283,6 @@ labels
 
     21 genre labels as follow:
 
-
-
-
-
     ['biography',
      "children's",
      'classic',
@@ -547,7 +543,6 @@ The **pandas** plotting is very convenient here: the grouping by month and stack
 ```
 names = books[books['Read in']==2021]['Month finished'].unique()
 xpos = range(1, len(names)+1)
-
 y_offset = np.zeros(len(names))
 for i, row in enumerate(labels):
     plt.bar(xpos, genre_distr[row], bottom=y_offset, color=colors[i,])
@@ -633,7 +628,6 @@ nx.draw_networkx_labels(G,
 plt.axis("off")
 cbar = plt.colorbar(edge_part)
 cbar.ax.set_ylabel("Count in common",labelpad=15,rotation=270)
-#plt.savefig('graph1.png',dpi=300,facecolor='white',edgecolor='white')
 plt.show()
 ```
 
