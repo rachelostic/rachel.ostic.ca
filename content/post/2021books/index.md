@@ -539,7 +539,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_12_0.png)
+![png](./2021books_12_0.png)
 
 
 The **pandas** plotting is very convenient here: the grouping by month and stacking of the bars is done automatically. For reference, the equivalent code that I found using only **matplotlib** is more cumbersome, requiring manually keeping track of the bar heights and looping over the different genre labels:
@@ -569,7 +569,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_14_0.png)
+![png](./2021books_14_0.png)
 
 
 In 2021, I read between 6 and 12 books every month. The difference in y scale between the two previous plots shows why looking at the counts in different categories isn't the most informative: there's overlap between them! I went looking for ideas on how what libraries and types of visualizations work for generalizing Venn diagrams and found a [fun answer](https://stackoverflow.com/questions/10804432/proportional-venn-diagram-for-more-than-3-sets) using **networkx** graphs.
@@ -638,7 +638,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_18_0.png)
+![png](./2021books_18_0.png)
 
 
 I experimented with a few different layout options for the graph. This circular one ended up looking the neatest in terms of readability of the node label and avoiding overlaps between nodes. It accidentally turned into a chord diagram! The thicker lines are the ones with the most pairwise intersections. The edges are colour-coded and partially transparent to give better contrast where they overlap. The main node is fiction which is most strongly associated with romance, young adult, fantasy, classic, and historical fiction. On the nonfiction side, a lot of the books are biographies. 
@@ -662,7 +662,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_20_0.png)
+![png](./2021books_20_0.png)
 
 
 Again, not very scientific because I am looking based on the number of genre labels applied, not by the number of books. But it's kind of illuminating in the sense that the frequency of each one (the width of the section) shows which genres I might be more likely to really enjoy. For example, fantasy and young adult occur more often in the favourites list compared with nonfiction, thriller, romance or horror which shrink in the **Yes** section. Lighthearted escapist books are more my style.
@@ -691,7 +691,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_22_0.png)
+![png](./2021books_22_0.png)
 
 
 It turns out the "extra" books I read relative to 2020 are all from the last decade or so. The single 18th century point is *Les liaisons dangereuses*.
@@ -719,7 +719,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_24_0.png)
+![png](./2021books_24_0.png)
 
 
 The most frequent are 3-word titles by a large margin. Most titles are also in the 15 to 25 character range (including spaces and punctuation).
@@ -751,7 +751,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_28_0.png)
+![png](./2021books_28_0.png)
 
 
 A peculiar observation is that the number of pages is not as random as one might expect: you can kind of see the points are vertically aligned in places for frequently-occurring page counts. I read mainly in ebook format this past year and looked up the number of pages online. It's possible that printers have standard mockups and the formatting is made to fit within that number of pages.
@@ -814,7 +814,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_32_0.png)
+![png](./2021books_32_0.png)
 
 
 This fit lets me estimate a total reading time for the year 2021.
@@ -865,7 +865,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_36_0.png)
+![png](./2021books_36_0.png)
 
 
 The distribution of reading rates from both years is very similar. Maybe just using the average would be a better aggregate measure than the fit? 
@@ -891,7 +891,7 @@ plt.show()
 ```
 
 
-![png](2021books_files/2021books_40_0.png)
+![png](./2021books_40_0.png)
 
 
 # Predict reading rate?
@@ -984,7 +984,7 @@ print(f"Max error {round(np.max(abs(y-regr.predict(X))),1)} minutes")
 ```
 
 
-![png](2021books_files/2021books_46_0.png)
+![png](./2021books_46_0.png)
 
 
     Average error 49.6 minutes
@@ -1028,7 +1028,7 @@ print(f"Max error {round(np.max(abs(books.dropna()['Reading time']-regr.predict(
 
 
 
-![png](2021books_files/2021books_48_1.png)
+![png](./2021books_48_1.png)
 
 
     Average error 47.7 minutes
