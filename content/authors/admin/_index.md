@@ -5,13 +5,13 @@ role: Data scientist
 
 avatar_filename: avatar.png
 
-bio: "I'm fascinated data analysis and how it combines abstract thinking with real world problems, and I am starting to fuse this interest with programming both personally and at work."
+bio: "I'm fascinated by data analysis and how it combines abstract thinking with real world problems, and I am starting to fuse this interest with programming both personally and at work."
 
 interests: 
+  - Data science
   - Terahertz spectroscopy
   - Fiber optics
   - Simulation
-  - Data science
 
 social:
   - icon: envelope
@@ -52,7 +52,7 @@ user_groups:
 
 highlight_name: false
 ---
-Rachel Ostic is a data scientist working on research at the Canada Revenue Agency on privacy-preserving analytical methodology.
+Rachel Ostic is a data scientist working at the Canada Revenue Agency on privacy-preserving analytical methodology research.
 
 In 2021, she completed a master's in the Ultrafast THz Spectroscopy laboratory at the University of Ottawa, Canada. There, she worked on supercontinuum generation, including simulations and experimental measurements of spectral and polarization properties, and contributed to the development of ultrafast terahertz detection instruments for high-speed data acquisition. Her other interests include programming and machine learning, which led her to contribute to a reinforcement learning project to solve a single-player game. 
 
