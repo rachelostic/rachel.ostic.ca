@@ -5,7 +5,7 @@ role: Data scientist
 
 avatar_filename: avatar.png
 
-bio: "I'm fascinated by physics and how it combines abstract thinking with real world problems, and I am starting to fuse this interest with programming both inside and outside the lab."
+bio: "I'm fascinated data analysis and how it combines abstract thinking with real world problems, and I am starting to fuse this interest with programming both personally and at work."
 
 interests: 
   - Terahertz spectroscopy
@@ -52,6 +52,8 @@ user_groups:
 
 highlight_name: false
 ---
-Rachel Ostic is a master's student in the Ultrafast THz Spectroscopy lab at the University of Ottawa. She works on supercontinuum generation, including simulations and experimental measurements of spectral and polarization properties, and is involved in developing a single-pulse terahertz detection technique. Her other interests include programming and machine learning, which led her to contribute to a reinforcement learning project to solve a single-player game. 
+Rachel Ostic is a data scientist working on research at the Canada Revenue Agency on privacy-preserving analytical methodology.
 
-Rachel is passionate about sharing her knowledge and love of physics as a tutor, teaching assistant, and through science outreach events. She is also principal viola and volunteers as Grant Proposal Manager for the Ottawa Pops Orchestra. In her spare time, she reads and tries to stay active by jogging, hiking and cycling in Gatineau Park.
+In 2021, she completed a master's in the Ultrafast THz Spectroscopy laboratory at the University of Ottawa, Canada. There, she worked on supercontinuum generation, including simulations and experimental measurements of spectral and polarization properties, and contributed to the development of ultrafast terahertz detection instruments for high-speed data acquisition. Her other interests include programming and machine learning, which led her to contribute to a reinforcement learning project to solve a single-player game. 
+
+Rachel is passionate about sharing her knowledge as a tutor, teaching assistant, and through science outreach events. She is also principal viola and volunteers as Grant Proposal Manager for the Ottawa Pops Orchestra. In her spare time, she reads and tries to stay active by jogging, hiking and cycling in Gatineau Park.
