@@ -13,7 +13,7 @@ draft: true
 math: true
 
 links:
-url_pdf: ''
+url_pdf: letter_paper_pattern_pieces.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -37,3 +37,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Last summer, I purchased a product from [notabag](https://www.notabag.com/) to give as a gift. It's a great design, with the convenience of having a spare bag that can fold away into a pocket, but also the comfort to wear it as a backpack so that hands can be free and the contents don't weigh heavily on only one shoulder.
+
+With that in mind, here is my own version of the foldable backpack with letter format printable pattern and assembly notes for my approach to sewing it.
