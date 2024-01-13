@@ -43,9 +43,10 @@ Last summer, I purchased a product from [notabag](https://www.notabag.com/) to g
 With that in mind, here is my own version of the foldable backpack with letter format printable pattern and assembly notes for my approach to sewing it. The sewing instructions here should leave no raw edges for a clean finish. I have been able to carry up to 2-3 kg in it without issue.
 
 ![jpg](./wearing_back.jpg)
+*My homemade bag in action.*
 
 ## Cutting out pattern pieces
-The pdf linked at the top of the page should be ready to print on letter size paper. It is not the conventional printable format of assemble pages first, then cut. Instead, cut out the pieces and match up blue lines to match the cutting diagram below.
+The pdf linked at the top of the page should be ready to print on letter size paper. It is not the conventional printable format of assemble pages first, then cut. Instead, cut out the pieces and match up blue lines to match the cutting inventory below.
 
 ![png](./cutting_instructions_whitebg.png)
 
