@@ -7,9 +7,9 @@ authors:
 tags: 
 - Sewing
 categories: []
-date: "2024-02-09T00:00:00Z"
+date: "2024-01-12T00:00:00Z"
 featured: false
-draft: true 
+draft: false 
 math: true
 
 links:
@@ -40,7 +40,9 @@ projects: []
 
 Last summer, I purchased a product from [notabag](https://www.notabag.com/) to give as a gift. It's a great design, with the convenience of having a spare bag that can fold away into a pocket, but also the comfort to wear it as a backpack so that hands can be free and the contents don't weigh heavily on only one shoulder.
 
-With that in mind, here is my own version of the foldable backpack with letter format printable pattern and assembly notes for my approach to sewing it.
+With that in mind, here is my own version of the foldable backpack with letter format printable pattern and assembly notes for my approach to sewing it. The sewing instructions here should leave no raw edges for a clean finish. I have been able to carry up to 2-3 kg in it without issue.
+
+![jpg](./wearing_back.jpg)
 
 ## Cutting out pattern pieces
 The pdf linked at the top of the page should be ready to print on letter size paper. It is not the conventional printable format of assemble pages first, then cut. Instead, cut out the pieces and match up blue lines to match the cutting diagram below.
@@ -146,5 +148,21 @@ Note: If using mismatched slit dimensions mentioned in 3b, ensure that the outer
 
 7. Top stitch upper and lower edges of slit section.
 
-
 ![png](./hole_step_6_7.png)
+
+## Finish assembly
+
+1. Place two bag halves right sides up, feeding the straps through the slits and aligning them roughly parallel to the bag sides. Make sure nothing is twisted. Now is a good time to check the strap length and angle by pinning or basting to sides and trying it on. In my experience, it will sit much better when the bag is not empty, but at least it should be possible to check how far it falls down your back.
+
+2. Sew the strap ends to the bottom of the bag on the slit side. I have been measuring up about 6" from the bottom and stitching a pentagon shape as shown. This is not marked on the pattern because you may have different preferences for where the straps are anchored.
+
+![png](./final_assembly.png)
+
+3. Assemble the halves with an inside out french seam. First, with the two bag halves right sides together, sew around the outside "U" shape with 12 mm / ½” seam allowance.
+
+4. Flip bag right way out and clip seam allowance if necessary to fully push out and flatten the seam sewn in step 3. Sew around the "U" shape again with slightly larger seam allowance, enclosing the seam allowance on the inside. The reason I prefer to do this "inside out" french seam is to encourage the bag to stay flat for folding into the pouch, and to keep the inside of the bag neat without seam allowances.
+
+## All done!
+To tuck the bag away into the pouch, I fold down the straps, fold the bag in 3 from side to side and then in 4 from top to bottom.
+
+The pattern for the pouch may be too big or small depending on the weight of the fabric used.
