@@ -119,7 +119,11 @@ Top stitching should be about 3 mm / ⅛” away from seam.
 1. Lay both top hole pieces right sides together with bottom piece sandwiched in between. 
 Sew along straight edge with 12 mm / ½” seam allowance.
 
+![png](./hole_step_1.png)
+
 2. Transfer slit end points to both top pieces from pattern markings (if you haven’t already) and make sure it’s visible on the wrong side of the fabric. I like to use thread marking at either end, shown with little x markings in the instructions for one of the 4 slits to mark.
+
+![png](./hole_step_2.png)
 
 3. For each of the slits, cut a piece of scrap fabric ~ 2 cm bigger than the slit size to use as a facing.
     * a. Pin it right sides together over where the slit will be.
@@ -128,11 +132,19 @@ Note: I made the shorter side different inside vs. outside the bag so that when 
     * c. Cut inside the rectangle, getting as close to the corners as  you can.
     * d. Flip the facing through the slit and smooth it to lay cleanly on the wrong side.
     * e. Top stitch around the slit to secure it.
+
+![png](./hole_step_3.png)
+
 4. Repeat step 3 for each of the 4 slits
 
 5. Burrito method to finish top edge. Roll bottom section inside then pin the two top sections together. Stitch with 12 mm seam allowance. Flip right side out.
+
+![png](./hole_step_5.png)
 
 6. Top stitch the adjacent slits together, going over the previous top stitched slit outline to attach the layers together and reinforce the slits.
 Note: If using mismatched slit dimensions mentioned in 3b, ensure that the outer slit nicely frames the inner one before pinning.
 
 7. Top stitch upper and lower edges of slit section.
+
+
+![png](./hole_step_6_7.png)
