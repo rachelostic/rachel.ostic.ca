@@ -45,6 +45,12 @@ With that in mind, here is my own version of the foldable backpack with letter f
 ![jpg](./wearing_back.jpg)
 *My homemade bag in action.*
 
+![jpg](./partly_folded.jpg)
+*Partly folded bag body on the left, ready to tuck away into pouch on the right.*
+
+![jpg](./all_folded.jpg)
+*The bag is packed away inside the pouch for storage. When the bag is worn, this outer pouch becomes a small inner pocket.*
+
 ## Cutting out pattern pieces
 The pdf linked at the top of the page should be ready to print on letter size paper. It is not the conventional printable format of assemble pages first, then cut. Instead, cut out the pieces and match up blue lines to match the cutting inventory below.
 
