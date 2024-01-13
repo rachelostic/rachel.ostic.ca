@@ -36,7 +36,7 @@ featured: false
 
 links:
 - name: Link
-  url: https://www.aaai.org/AAAI21Papers/SA-333.OsticR.pdf
+  url: https://aaai.org/papers/15861-solving-jumpin-using-zero-dependency-reinforcement-learning-student-abstract/
 url_pdf: '' 
 url_code: ''
 url_dataset: ''
