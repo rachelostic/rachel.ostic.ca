@@ -65,6 +65,8 @@ Using two contrast fabrics is optional. I chose to cut:
     * b. one long side of pouch flap;
     * c. one long side of one pouch body.
     * Seam allowance: ~12 mm / ½” total (fold over twice 6 mm / ¼”)
+  
+![png](./pouch%20Step%201.png)
 
 2. First outline for french seam:
     * a. Place unsewn pouch body right side down.
@@ -74,29 +76,43 @@ Using two contrast fabrics is optional. I chose to cut:
     * e. Sew around the edge at ~6 mm / ¼”.
     * f. Reinforce top seam that holds the flap and pouch attacher in place.
 
+![png](./pouch%20Step%202.png)
+
 3. OPTIONAL: Attach loop to seam allowance on one of the short sides. Keep loop ends within seam allowance and stitch back and forth to secure them.
 
+![png](./pouch%20step%203.png)
+
 4. Clip corners and trim seam allowance down to a bit under 6 mm, especially if there are fraying areas.
+
+![png](./pouch%20step%204.png)
 
 5. Flip inside out, press corners and seams out. 
 Pull pouch attacher out of the way and re-sew around the pouch just past ~6 mm / ¼” seam allowance, just far enough from the edge that the previous seam allowance enclosed inside is not caught in the stitches.
 Be careful not to catch the rolled hem of the pouch body as you sew the side with the pouch attacher.
 
-6. Flip body right side out. Set pouch aside.
+![png](./pouch%20step%205.png)
+
+7. Flip body right side out. Set pouch aside.
 
 ## Assemble strap side of bag
 
 1. Lay both top strap pieces right sides together with bottom piece sandwiched in between. 
 Sew along straight edge with 12 mm / ½” seam allowance.
 
-2. Burrito method to finish top edge.
+![png](./strap%20step%201.png)
+
+3. Burrito method to finish top edge.
     * a. Roll bag bottom tightly up into the seam sewn in step 1.
     * b. Roll up pouch and pin pouch attacher strip in between straps so that pouch is also in the “burrito”. Pouch body with right sides out should have an opening facing the same direction as the right side of the bag bottom fabric. (It isn’t a big deal if it goes the other way.)
     * c. Sew along strap edges with 12 mm / ½” seam allowance.
     * d. Clip curves.
 
+![png](./strap%20step%202.png)
+
 3. Turn right side out and top stitch along seams completed in 1 and 2. Hold the pouch out of the way.
 Top stitching should be about 3 mm / ⅛” away from seam.
+
+![png](./strap%20step%203.png)
 
 ## Assemble hole side of bag
 
