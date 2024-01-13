@@ -43,7 +43,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ./Ostic_AAAI21_jumpin_poster.pdf
+url_pdf: Ostic_AAAI21_jumpin_poster.pdf
 url_slides: ""
 url_video: ""
 
