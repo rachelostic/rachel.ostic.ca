@@ -13,7 +13,7 @@ draft: false
 math: true
 
 links:
-url_pdf: letter_paper_pattern_pieces.pdf
+url_pdf: post/foldaway-backback/letter_paper_pattern_pieces.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
