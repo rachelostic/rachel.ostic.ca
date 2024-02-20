@@ -34,7 +34,7 @@ featured: false
 
 image:
   caption: 
-  focal_point: Right
+  focal_point: 
 
 links:
 url_code: ""
