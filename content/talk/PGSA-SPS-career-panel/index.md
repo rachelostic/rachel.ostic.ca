@@ -1,5 +1,5 @@
 ---
-title: PGSA+SPS: Careers After Graduation
+title: PGSA & SPS present 'Careers After Graduation'
 event:
 event_url:
 
